@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "balance:graphs": "node scripts/generate-balance-graphs.mjs"
   },
   "devDependencies": {
     "typescript": "~6.0.2",

@@ -26,6 +26,8 @@ npm run dev
 - 환경 설정: `docs/SETUP.md`
 - 개발 로그 템플릿: `docs/DEVLOG.md`
 - 배포 가이드: `docs/DEPLOY.md`
+- 공유 랭킹 설정: `docs/SHARED_RANKING_SETUP.md`
 - 회고 템플릿: `docs/RETROSPECTIVE.md`
 - 에셋 크레딧: `docs/ASSET_CREDITS.md`
 - 변경 이력: `CHANGELOG.md`
+- 용어집: `용어집.md`

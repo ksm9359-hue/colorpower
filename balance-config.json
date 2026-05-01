@@ -1,0 +1,16 @@
+{
+  "roundDurationSec": 100,
+  "scorePerCatch": 10,
+  "matchBonusScore": 100,
+  "scoreDifficultyFactor": 4,
+  "attachedLimit": 6,
+  "spawnDelayStartMs": 760,
+  "spawnDelayMinMs": 260,
+  "spawnCurvePower": 1.95,
+  "dropSpeedStart": 1.0,
+  "dropSpeedMax": 7.2,
+  "speedCurvePower": 1.65,
+  "spawnCountMin": 1,
+  "spawnCountMax": 4,
+  "spawnCountCurvePower": 2.0
+}
